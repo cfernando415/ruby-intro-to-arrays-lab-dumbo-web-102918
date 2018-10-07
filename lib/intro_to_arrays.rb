@@ -10,10 +10,6 @@ def first_element
   
 end
 
-def first_element
-  
-end
-
 def third_element
   
 end

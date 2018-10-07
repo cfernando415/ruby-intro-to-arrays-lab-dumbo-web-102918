@@ -6,15 +6,15 @@ def array_with_two_elements
   Array.new(2)
 end
 
-def first_element
+def first_element(index)
   
 end
 
-def third_element
+def third_element()
   
 end
 
-def last_element
+def last_element()
   
 end
 
